@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-BASED-EMAIL-SPAM-DETECTION-AND-INTELLIGENT-EMAIL-CLASSIFICATION-SYSTEM
+Email remains one of the most widely used communication platforms, making it a common target for spam, phishing, and malicious content. Traditional rule-based spam filters often struggle to detect newly emerging spam patterns and sophisticated phishing emails, resulting in reduced detection accuracy and increased security risks.
